@@ -1,3 +1,20 @@
+for download 
+cd Downloads/
+ls
+sudo chmod 755 xcopay 
+sudo ./ xcopy
+
+for stat 
+cd /opt
+ls
+cd /lampp
+ls
+sudo ./manger.
+
+or sudo /opt/lampp/lampp start
+
+
+
 Q.1 Create a Sales Table and Use Aggregate Functions a) Create a Sales table with 
 columns: SaleID, ProductID, Quantity, SaleAmount, and SaleDate. b) Insert at least 10 
 sales records with different products and quantities. c) Write a query to calculate the 
